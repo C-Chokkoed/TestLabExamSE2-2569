@@ -1,0 +1,23 @@
+{
+  // ปิดการเติมโค้ดอัตโนมัติทั้งหมด (ฝึกพิมพ์เองสำหรับสอบ)
+  "editor.quickSuggestions": { "other": false, "comments": false, "strings": false },
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.wordBasedSuggestions": "off",
+  "editor.parameterHints.enabled": false,
+  "editor.inlineSuggest.enabled": false,
+  "editor.snippetSuggestions": "none",
+  "editor.tabCompletion": "off",
+  "editor.autoClosingBrackets": "never",
+  "editor.autoClosingQuotes": "never",
+  "editor.autoSurround": "never",
+  "editor.formatOnType": false,
+  "editor.formatOnSave": false,
+  "github.copilot.enable": { "*": false },
+  "github.copilot.editor.enableAutoCompletions": false,
+  "github.copilot.nextEditSuggestions.enabled": false,
+  "go.useLanguageServer": true,
+  "gopls": { "ui.completion.usePlaceholders": false },
+  "[go]": { "editor.formatOnSave": false, "editor.codeActionsOnSave": {} }
+}
